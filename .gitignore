@@ -1,0 +1,24 @@
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Python caches (if you play with Python later)
+__pycache__/
+*.pyc
+
+# Secret environment configs
+.env
+
+# Node dependencies (if you do Node.js later)
+node_modules/
+
+# Build/output folders
+dist/
+build/
